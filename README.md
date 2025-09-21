@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌻 Flores Amarillas - Presentación Romántica
 
 Una página web romántica y elegante que presenta una hermosa presentación sobre el significado de las flores amarillas, creada especialmente para compartir momentos especiales con tu pareja.
@@ -77,3 +78,6 @@ Puedes personalizar fácilmente:
 *Creado con amor para momentos especiales* 💛
 
 **Tip**: Para una experiencia más romántica, comparte la página en pantalla completa y con buena iluminación ambiental.
+=======
+# para-ari
+>>>>>>> 7bfb222857c6b65421debb49374794ea86856754
